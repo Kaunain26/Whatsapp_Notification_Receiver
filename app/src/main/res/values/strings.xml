@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Whatsapp Notification Receiver</string>
+    <string name="notification_listener_service">Notification Listener Service</string>
+    <string name="from">From</string>
+    <string name="clear_all">Clear All</string>
+    <string name="check_permission">Check Permission</string>
+    <string name="whatsapp_notifications">Whatsapp Notifications</string>
+</resources>
